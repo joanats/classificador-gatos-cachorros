@@ -30,20 +30,22 @@ Para replicar este projeto, você vai precisar das seguintes bibliotecas Python 
 - pycaret
 - tqdm
   
+**Passos**
+1. **Clone o repositório**:
 
-Você pode instalar todas de uma vez usando o arquivo `requirements.txt` com o comando:
+```bash
+git clone https://github.com/joanatrindade/case_cats_and_dogs.git
+cd case_cats_and_dogs
+```
 
-```bash```
+2. **Instale as bibliotecas necessárias**:
+
+```bash
 pip install -r requirements.txt
+```
 
-**Como rodar no Google Colab**
-
-1. Abra o notebook no [Google Colab](https://colab.research.google.com/).
-
-2. Faça uma cópia para sua conta clicando em **Arquivo > Salvar uma cópia no Drive**.
-
-3. Execute as células na ordem, garantindo que as dependências sejam instaladas (caso precise, coloque comandos `!pip install` nas primeiras células).
-
+3. Execute o notebook principal (case_cromai.ipynb) para visualizar o código e a documentação.
+    - Use Jupyter Notebook ou Google Colab para abrir e rodar.
 
 ## Estrutura do Projeto
 ```
