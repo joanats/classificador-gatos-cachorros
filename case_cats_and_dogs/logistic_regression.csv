@@ -1,0 +1,2 @@
+model,accuracy,val_accuracy,loss,val_loss,alteracao,justificativa
+Logistic Regression,0.9775,0.9968,0.022499999999999964,0.0031999999999999806,Modelo criado com create_model(),Utilizamos o modelo padrão de Regressão Logística para servir como linha de base de comparação

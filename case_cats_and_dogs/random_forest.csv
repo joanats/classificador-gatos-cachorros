@@ -1,0 +1,2 @@
+model,accuracy,val_accuracy,loss,val_loss,alteracao,justificativa
+Random Forest,0.9644,0.9948,0.035599999999999965,0.005199999999999982,Modelo criado com create_model(),Foi utilizado um classificador diferente para comparar abordagens distintas sem ajuste de hiperparâmetros
