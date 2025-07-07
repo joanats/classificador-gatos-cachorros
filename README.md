@@ -1,4 +1,4 @@
-# classificador-gatos-cachorros
+# Desafio Cromai - ML Cats and Dogs
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,9 +16,14 @@
   <a href="#-contato">Contato</a>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/EL1ygW2.png">
+</p>
+
 ## Instalação
 
 Python 3.8 ou superior
+
 Para replicar este projeto, você vai precisar das seguintes bibliotecas Python instaladas:
 
 - numpy
@@ -52,9 +57,14 @@ pip install -r requirements.txt
 case_cats_and_dogs/
 ├── cats_and_dogs/
 │ ├── class_cat/ 
-│ └── class_dog/ 
+│ └── class_dog/
+├── requirements_train_py.txt
+├── train.py
+├── training_metrics.csv
 ├── README.md
-├── train.py 
+├── logistic_regression.csv
+├── melhor_modelo_gatos_cachorros.pkl
+├── random_forest.csv
 └── requirements.txt
 
 ```
