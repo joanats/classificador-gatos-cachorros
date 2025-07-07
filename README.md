@@ -49,7 +49,7 @@ cd classificador-gatos-cachorros
 pip install -r requirements.txt
 ```
 
-3. Execute o notebook principal (case_cromai.ipynb) para visualizar o código e a documentação.
+3. Execute o notebook principal (Desafio_Cromai.ipynb) para visualizar o código e a documentação.
     - Use Jupyter Notebook ou Google Colab para abrir e rodar.
 
 ## Estrutura do Projeto
